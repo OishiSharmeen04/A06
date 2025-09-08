@@ -1,6 +1,4 @@
-## Create Readme
-
-### Answer the following questions clearly:
+## Answer the following questions clearly:
 
 ### 1. What is the difference between var, let, and const?
 - **var, let, const** they are used to declaring variables. **var** is function scoped and can be redeclared. **let** is block scoped, it can change, but cannot be redeclared in the same block. **const** is also block scoped but cannot be changed.
